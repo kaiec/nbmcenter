@@ -1,0 +1,12 @@
+CHANGELOG
+
+Version 0.1.2, 2011-05-05
+   * Bug in the updates.xml.php, escaping of <?xml needed
+
+Version 0.1.1, 2009-07-17
+   * Bug in the updates.xml.php, wrong distribution paths
+
+Version 0.1, 2009-07-17
+   * Initial release
+   * Upload-/Download of NBMs, View in a table, XML for Netbeans Update Center
+   * No design, no translations ;-)
